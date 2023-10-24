@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FSqq
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning
 
 <!---
 FSqq/FSqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
